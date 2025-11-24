@@ -6,7 +6,7 @@ import net.minecraft.network.protocol.game.ServerboundMovePlayerPacket;
 
 public class NoFall extends Module {
     public NoFall() {
-        super("NoFall", "Removes fall damage", Category.PLAYER);
+        super("makes you float like the weakling feather you are", "denies fall weakling", Category.PLAYER);
     }
 
     @Override
